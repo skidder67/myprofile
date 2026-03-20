@@ -3,7 +3,7 @@ export default function Home() {
     <main className="min-h-screen flex flex-col items-center justify-center bg-black text-white p-8">
       <div className="flex flex-col items-center gap-4 w-full max-w-sm">
         <img
-          src="https://i.pravatar.cc/100"
+          src="https://i.imgur.com/L2UWkYf.png"
           className="w-24 h-24 rounded-full"
         />
         <h1 className="text-2xl font-bold">@skidder67</h1>
