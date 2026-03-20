@@ -22,6 +22,15 @@ export default function Home() {
            <a href="https://discord.gg/wwpPZ8RxsJ" className="bg-white/10 hover:bg-white/20 rounded-xl px-4 py-3 text-center transition">
             MA(modding academy) - helped make the lib
           </a>
+          <iframe
+  width="0"
+  height="0"
+  scrolling="no"
+  frameBorder="no"
+  allow="autoplay"
+  src="https://w.soundcloud.com/player/?url=https://soundcloud.com/s0rrowmusic/be-ur-man&auto_play=true&hide_related=true&show_comments=false&show_user=false&show_reposts=false&visual=false"
+  style={{display: 'none'}}
+/>
         </div>
       </div>
     </main>
