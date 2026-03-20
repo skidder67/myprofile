@@ -11,13 +11,16 @@ export default function Home() {
 
         <div className="flex flex-col gap-3 w-full mt-4">
           <a href="#" className="bg-white/10 hover:bg-white/20 rounded-xl px-4 py-3 text-center transition">
-            🐦 Twitter
+            Mod servers
           </a>
-          <a href="#" className="bg-white/10 hover:bg-white/20 rounded-xl px-4 py-3 text-center transition">
-            💬 Discord
+            <a href="https://discord.gg/Wafuac65U7" className="bg-white/10 hover:bg-white/20 rounded-xl px-4 py-3 text-center transition">
+            G07 - owner
           </a>
-          <a href="#" className="bg-white/10 hover:bg-white/20 rounded-xl px-4 py-3 text-center transition">
-            📷 Instagram
+          <a href="https://discord.gg/wwpPZ8RxsJ" className="bg-white/10 hover:bg-white/20 rounded-xl px-4 py-3 text-center transition">
+            bus - helped make the DLL
+          </a>
+           <a href="https://discord.gg/wwpPZ8RxsJ" className="bg-white/10 hover:bg-white/20 rounded-xl px-4 py-3 text-center transition">
+            MA(modding academy) - helped make the lib
           </a>
         </div>
       </div>
