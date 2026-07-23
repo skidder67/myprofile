@@ -89,7 +89,7 @@ export default function Home() {
         height="1"
         style={{ position: "absolute", top: 0, left: 0, opacity: 0, pointerEvents: "none", border: 0 }}
         allow="autoplay"
-        src="https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fplayboicarti%2Fnew-tank&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&visual=false"
+        src="https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fiayze-scmusic%2F556-green-tip&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&visual=false"
       />
 
       {/* Animated moving background — soft pink/lavender swirl */}
@@ -185,7 +185,7 @@ export default function Home() {
               style={{ border: "3px solid #ffb6d9", boxShadow: "0 0 20px rgba(255,182,217,0.8)" }}
             />
             <h1 className="text-2xl font-bold" style={{ color: "#c2447a" }}>
-              🎀 @$HIESTY 🎀
+               @$HIESTY 
             </h1>
             <p style={{ color: "#a15c7c" }}>ATTEST and AUTH dev, ANTI CHEAT dev</p>
             <div className="flex flex-col gap-3 w-full mt-4">
@@ -195,7 +195,7 @@ export default function Home() {
                 className="rounded-2xl px-4 py-3 text-center transition"
                 style={{ background: "rgba(255,182,217,0.45)", color: "#7a2b52", fontWeight: 600 }}
               >
-                💌 DISCORD - protection stuff by me
+                 DISCORD - protection stuff by me
               </a>
               <a
                 href="https://discord.gg/aehC8uArEu"
@@ -203,7 +203,7 @@ export default function Home() {
                 className="rounded-2xl px-4 py-3 text-center transition"
                 style={{ background: "rgba(224,179,255,0.45)", color: "#5e3480", fontWeight: 600 }}
               >
-                🦍 SKYS GORILLA HORROR - protected
+                 SKYS GORILLA HORROR - protected
               </a>
               <a
                 href="PLACE HOLDER"
@@ -211,7 +211,7 @@ export default function Home() {
                 className="rounded-2xl px-4 py-3 text-center transition"
                 style={{ background: "rgba(182,230,255,0.45)", color: "#2b6a80", fontWeight: 600 }}
               >
-                💫 PLACE HOLDER
+                 PLACE HOLDER
               </a>
               <a
                 href="PLACE HOLDER"
@@ -219,7 +219,7 @@ export default function Home() {
                 className="rounded-2xl px-4 py-3 text-center transition"
                 style={{ background: "rgba(255,214,232,0.45)", color: "#c2447a", fontWeight: 600 }}
               >
-                💫 PLACE HOLDER
+               PLACE HOLDER
               </a>
             </div>
           </div>
