@@ -89,7 +89,7 @@ export default function Home() {
         height="1"
         style={{ position: "absolute", top: 0, left: 0, opacity: 0, pointerEvents: "none", border: 0 }}
         allow="autoplay"
-        src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1484461585&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&visual=false"
+        src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1210906615&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&visual=false"
       />
 
       {/* Animated moving background — soft pink/lavender swirl */}
@@ -195,7 +195,7 @@ export default function Home() {
                 className="rounded-2xl px-4 py-3 text-center transition"
                 style={{ background: "rgba(255,182,217,0.45)", color: "#7a2b52", fontWeight: 600 }}
               >
-                 DISCORD - protection stuff by me
+                💌 DISCORD - protection stuff by me
               </a>
               <a
                 href="https://discord.gg/aehC8uArEu"
